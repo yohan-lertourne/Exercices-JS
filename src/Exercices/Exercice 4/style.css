@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: #000000;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+#minus {
+    width: 200px;
+    height: 300px;
+    font-size: 60px;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+#plus {
+    width: 200px;
+    height: 300px;
+    font-size: 60px;
+    margin-top: 200px;
+    margin-left: 500px;
+}
