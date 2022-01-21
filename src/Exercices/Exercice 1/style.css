@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(0.25turn, #fc84e8,#e93326,#e9d626,rgb(38, 204, 233),#5a26e9,#8702a1);
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: #fcfcfc;
+}
+
+li {
+    color: #fcfcfc;
+}
