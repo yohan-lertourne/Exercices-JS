@@ -50,6 +50,18 @@ body {
     background-color: #2e8b5280;
 }
 
+/* main */
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+main div {
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
 /* h1 */
 
 h1 {
@@ -79,4 +91,10 @@ li {
 
 li:hover {
     cursor:pointer;
+}
+
+/* card */
+div {
+    width: 200px;
+    background-color: rgb(161, 7, 161);
 }
